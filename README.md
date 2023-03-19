@@ -1,5 +1,5 @@
-# Easy Chunks of R
-Einfache Beispiele zur Datenanalyse mit R
+# Kostenlose Tutorials für die Programmiersprache R
+Sechs einfache und angeleitete Beispiele zum autodidaktischen Einstieg in die Datenanalyse mit R
 
 # Autoren
 Prof. Dr. Dennis Klinkhammer
